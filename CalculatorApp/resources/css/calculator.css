@@ -1,0 +1,35 @@
+.root{
+
+}
+#window{
+    -fx-font-size: 35px;
+    -fx-padding: 2;
+    -fx-background-color: #4d4d4d;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: Courier New;
+    -fx-border-radius: 0px;
+    -fx-border-color: #4d4d4d;
+
+}
+
+.button{
+    -fx-background-color: #d9d9d9;
+    -fx-border-size: 1px;
+    -fx-border-color: #808080;
+    -fx-border-radius: 0px;
+    -fx-font-family: Arial;
+    -fx-font-size: 18;
+}
+
+.button:pressed{
+    -fx-background-color:#bfbfbf;
+}
+
+.operators{
+    -fx-background-color: #66b3ff;
+    -fx-text-fill: #ffffff;
+}
+.operators:pressed{
+    -fx-background-color: #80bfff;
+    -fx-text-fill: #4d4d4d;
+}
